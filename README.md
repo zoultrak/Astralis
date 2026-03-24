@@ -1,10 +1,12 @@
 # Astralis — Sistema de Gestión de Transporte
 
-abrir terminal y correr dentro del proyecto
+- **abrir terminal y correr dentro del proyecto**
 
-cd ~/Descargas/astralis
-chmod +x setup.sh
-./setup.sh
+- **cd ~/Descargas/astralis**
+
+- **chmod +x setup.sh**
+
+- **./setup.sh**
 
 ## Stack
 

@@ -8,6 +8,8 @@
 
 - **./setup.sh**
 
+conayuda de este script instalas todo lo necesario automaticamente
+
 ## Stack
 
 - **Next.js 16** (App Router) + **TypeScript**
